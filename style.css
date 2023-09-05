@@ -85,6 +85,10 @@ body {
   top: 0;
   left: 0;
 }
+#header a img {
+  width: 30%;
+}
+
 #navbar {
   display: flex;
   align-items: center;
@@ -126,7 +130,7 @@ body {
 }
 /* HOME PAGE */
 #hero {
-  background-image: url("./img/hero4.png");
+  background-image: url("./img/pngtree-modern-city-commercial-building-silhouette-background-banner-image_264570.jpg");
   height: 90vh;
   width: 100%;
   background-size: cover;
@@ -304,7 +308,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
-  background-image: url("./img/banner/b17.jpg");
+  background-image: url("./img/sua-nha-uy-tin-o-ha-noi.jpg");
   min-width: 580px;
   height: 50vh;
   background-size: cover;
@@ -312,7 +316,7 @@ body {
   padding: 30px;
 }
 #sm-banner .banner-box2 {
-  background-image: url("./img/banner/b17.jpg");
+  background-image: url("./img/sua-nha-uy-tin-o-ha-noi.jpg");
 }
 #sm-banner h4 {
   color: #fff;
@@ -346,7 +350,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
-  background-image: url("./img/banner/b17.jpg");
+  background-image: url("./img/sua-nha-uy-tin-o-ha-noi.jpg");
   min-width: 30%;
   height: 30vh;
   background-size: cover;
@@ -355,10 +359,10 @@ body {
   margin-bottom: 20px;
 }
 #banner3 .banner-box2 {
-  background-image: url("./img/banner/b4.jpg");
+  background-image: url("./img/sua-nha-uy-tin-o-ha-noi.jpg");
 }
 #banner3 .banner-box2 {
-  background-image: url("./img/banner/b18.jpg");
+  background-image: url("./img/sua-nha-uy-tin-o-ha-noi.jpg");
 }
 
 #banner3 h2 {
