@@ -300,7 +300,7 @@ body {
 }
 #sm-banner {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-between;
   flex-wrap: wrap;
 }
 #sm-banner .banner-box {
@@ -309,7 +309,7 @@ body {
   justify-content: center;
   align-items: flex-start;
   background-image: url("./img/sua-nha-uy-tin-o-ha-noi.jpg");
-  min-width: 580px;
+  min-width: 670px;
   height: 50vh;
   background-size: cover;
   background-position: center;
