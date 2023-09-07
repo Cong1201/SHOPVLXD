@@ -130,7 +130,7 @@ body {
 }
 /* HOME PAGE */
 #hero {
-  background-image: url("./img/pngtree-modern-city-commercial-building-silhouette-background-banner-image_264570.jpg");
+  background-image: url("./img/messi.jpg");
   height: 90vh;
   width: 100%;
   background-size: cover;
@@ -145,12 +145,15 @@ body {
   padding-bottom: 15px;
 }
 #hero h1 {
-  color: #088178;
+  color: #c9cbce;
+}
+#hero p {
+  color: #c9cbce;
 }
 #hero button {
   background-image: url("./img/button.png");
   background-color: transparent;
-  color: #088178;
+  color: #c9cbce;
   border: 0;
   padding: 14px 80px 14px 65px;
   background-repeat: no-repeat;
@@ -350,7 +353,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
-  background-image: url("./img/sua-nha-uy-tin-o-ha-noi.jpg");
+  background-image: url("./img/banner/bannerxay.jpg");
   min-width: 30%;
   height: 30vh;
   background-size: cover;
@@ -359,10 +362,10 @@ body {
   margin-bottom: 20px;
 }
 #banner3 .banner-box2 {
-  background-image: url("./img/sua-nha-uy-tin-o-ha-noi.jpg");
+  background-image: url("./img/banner/bannerxay.jpg");
 }
 #banner3 .banner-box2 {
-  background-image: url("./img/sua-nha-uy-tin-o-ha-noi.jpg");
+  background-image: url("./img/banner/bannerxay.jpg");
 }
 
 #banner3 h2 {
